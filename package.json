@@ -1,19 +1,22 @@
 {
   "name": "taskmodule__sass",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.9.0",
+  "description": "GulpTaskModule to compile a minify sass, works good with async.js",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arwidt/taskmodule__sass.git"
+    "url": "git+https://github.com/arwidt/taskmodule__browserify.git"
   },
-  "author": "",
+  "keywords": [
+    "buildscript",
+    "gulp",
+    "sass",
+    "gulp-task"
+  ],
+  "author": "Arwid Thornstrom <arwidt@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/arwidt/taskmodule__sass/issues"
