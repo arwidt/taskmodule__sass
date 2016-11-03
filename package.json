@@ -1,6 +1,6 @@
 {
   "name": "taskmodule__sass",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "description": "GulpTaskModule to compile a minify sass, works good with async.js",
   "main": "index.js",
   "scripts": {
