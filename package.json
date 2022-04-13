@@ -33,7 +33,7 @@
     "gulp-util": "^3.0.8"
   },
   "devDependencies": {
-    "async": "^2.6.0",
+    "async": "^3.2.2",
     "gulp": "^3.9.1"
   }
 }
