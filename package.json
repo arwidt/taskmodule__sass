@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/arwidt/taskmodule__sass#readme",
   "dependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^4.1.0",
     "gulp-cssnano": "^2.1.2",
     "gulp-plumber": "^1.2.0",
@@ -34,6 +34,6 @@
   },
   "devDependencies": {
     "async": "^2.6.0",
-    "gulp": "^3.9.1"
+    "gulp": "^4.0.2"
   }
 }
